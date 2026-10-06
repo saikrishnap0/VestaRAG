@@ -1,4 +1,4 @@
-# Thera-RAG: Therapy Assistant with RAG and Clinical Document QA
+# VESTA-RAG: Therapy Assistant with RAG and Clinical Document QA
 
 ## Overview
 Thera-RAG is an interactive, document-grounded question-answering (QA) and retrieval-augmented generation (RAG) system for clinical and medical research. It enables users to query ingested clinical guidelines, research papers, and other documents using natural language, leveraging state-of-the-art large language models (LLMs) and vector search.
